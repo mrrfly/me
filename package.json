@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "@zeit/next-css": "^1.0.1",
     "next": "9.4.4",
+    "next-purgecss": "^4.0.0",
     "postcss-preset-env": "^6.7.0",
+    "processmd": "^4.5.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "tailwindcss": "^1.4.6"
